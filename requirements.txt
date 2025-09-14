@@ -6,3 +6,4 @@ sentence_transformers
 faiss-cpu
 rank-bm25
 transformers
+langchain-google-genai
