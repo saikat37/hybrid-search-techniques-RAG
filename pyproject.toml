@@ -1,0 +1,13 @@
+[project]
+name = "hybrid-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipynb>=0.5.1",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "pymupdf>=1.26.4",
+    "sentence-transformers>=5.1.0",
+]

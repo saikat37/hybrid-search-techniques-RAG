@@ -1,0 +1,6 @@
+ipynb
+langchain_community
+langchain
+pymupdf
+sentence_transformers
+FAISS
