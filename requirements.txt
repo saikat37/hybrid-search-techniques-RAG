@@ -8,3 +8,5 @@ rank-bm25
 transformers
 langchain-google-genai
 langchain_huggingface
+langchain_groq
+python-dotenv
